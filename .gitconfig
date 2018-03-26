@@ -1,0 +1,7 @@
+[alias]
+    committing = "commit -m"
+    adding = "add -A"
+    remove = "rm --cached -r -f ."
+    new = "add -A"
+    doge = "Such commit. Much changes. So awesome. WOW!"
+    pushing = "push"
