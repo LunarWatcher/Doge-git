@@ -1,0 +1,5 @@
+alias such='git'
+alias much='git'
+alias wow='git init'
+alias so='git'
+alias many='git'
