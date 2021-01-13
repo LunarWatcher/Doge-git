@@ -1,10 +1,10 @@
 # Doge-git
 
-Have you ever wanted to commit to Git in style? Well, now you can! With a few aliases, you can now commit like the doge:
+Have you ever wanted to commit to Git in style? Well, now you can! With a few aliases, you can now commit like [the doge](https://en.wikipedia.org/wiki/Doge_(meme)):
 
     wow
     such adding
     much committing doge
     much pushing origin
-    
+
 Just add a few lines to .gitconfig and .bashrc and you're doged up!
